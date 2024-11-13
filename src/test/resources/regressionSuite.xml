@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Orange HRM Project">
+    <test name="admin login">
+
+        <classes>
+            <class name="testrunner.LoginTestRunner"/>
+        </classes>
+    </test>
+
+    <test name="Create new User">
+
+        <classes>
+            <class name="testrunner.PIMTestRunner"/>
+        </classes>
+    </test>
+    <test name="Login by newly created employee">
+        <classes>
+            <class name="testrunner.UserLoginTestRunner"/>
+        </classes>
+    </test>
+
+
+
+</suite>
