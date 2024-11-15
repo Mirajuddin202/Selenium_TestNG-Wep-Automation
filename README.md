@@ -49,3 +49,7 @@ This automation suite includes:
 
 ## Contributing
 Contributions are welcome! Fork the repo and submit a pull request with a description of changes made.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
